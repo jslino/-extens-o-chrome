@@ -1,0 +1,9 @@
+{
+    "name": "Ler html",
+    "description": "Ler paragrafo em qualquer pagina html",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup":"index.html"
+    },
+    "manifest_version": 2
+  }
